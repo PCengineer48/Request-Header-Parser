@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PCengineer48/Request-Header-Parser.git"
-  },
   "keywords": [
     "API",
     "Sedat Can Uygur",
@@ -18,9 +14,6 @@
   ],
   "author": "Sedat Can Uygur",
   "license": "GPL-2.0",
-  "bugs": {
-    "url": "https://github.com/PCengineer48/Request-Header-Parser/issues"
-  },
   "homepage": "https://github.com/PCengineer48/Request-Header-Parser#readme",
   "dependencies": {
     "express": "^4.13.3"
